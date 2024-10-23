@@ -1,2 +1,2 @@
 # Laboratorio_A01275605
-Laborio de GitHub Básico
+Laborio de GitHub Mónica Pérez Valencia
